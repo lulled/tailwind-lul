@@ -7,3 +7,4 @@ Const content =() =>{
         </div>
       )
    }
+export default(content);
